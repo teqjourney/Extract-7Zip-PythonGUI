@@ -1,0 +1,12 @@
+[
+    {
+        "message": "Test message 1",
+        "date": "2024-01-01",
+        "sender": "+123456789"
+    },
+    {
+        "message": "Test message 2",
+        "date": "2024-01-02",
+        "sender": "+987654321"
+    }
+]
